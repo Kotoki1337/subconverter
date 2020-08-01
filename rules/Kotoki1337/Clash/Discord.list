@@ -1,7 +1,9 @@
 # Discord
 
 DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,discordapp
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.net
