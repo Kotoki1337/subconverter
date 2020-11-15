@@ -7,6 +7,7 @@ osu!,rules/Kotoki1337/Clash/osu!.list
 全球拦截,rules/NobyDa/Surge/AdRule.list
 全球拦截,rules/ConnersHua/Surge/Ruleset/Hijacking.list
 NETFLIX,rules/ConnersHua/Surge/Ruleset/Media/Netflix.list
+Youtube Music,rules/Kotoki1337/Clash/Youtube Music.list
 国外媒体,rules/ConnersHua/Surge/Ruleset/GlobalMedia.list
 国内媒体,rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list
 国内媒体,rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list
