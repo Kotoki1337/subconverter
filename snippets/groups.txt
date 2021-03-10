@@ -1,46 +1,34 @@
-节点选择`select`[]Auto`[]🇦🇺 Australia`[]🇧🇷 Brazil`[]🇩🇪 Germany`url-test`[]🇬🇧 United Kingdom`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇮🇳 India`url-test`[]🇯🇵 Japan`[]🇰🇷 South Korea`[]🇲🇴 Macau`[]🇲🇾 Malaysia`[]🇷🇺 Russia`[]🇸🇬 Singapore`[]🇹🇼 Taiwan`[]🇺🇸 United States`
-Discord`select`[]节点选择`[]Auto`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🏳️‍🌈 BGP`
-osu!`select`[]全球直连`[]节点选择`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`
-
-NETFLIX`select`[]节点选择`[]Auto`[]全球直连`.*
-Youtube Music`select`[]节点选择`[]Auto`[]全球直连`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`.*
+节点选择`select`[]自动选择`[]🏳️‍🌈 BGP`[]🇲🇴 Macau`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IPLC`[]🇭🇰 Hong Kong IEPL`[]🇰🇷 South Korea`[]🇰🇷 South Korea BGP`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`.*`
+Discord`select`[]节点选择`[]自动选择`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IPLC`[]🇭🇰 Hong Kong IEPL`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🏳️‍🌈 BGP`
+osu!`select`[]全球直连`[]节点选择`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IPLC`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`
+自动选择`url-test`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇰🇷 South Korea`[]🇸🇬 Singapore`http://www.gstatic.com/generate_204`300
+🇹🇼 Taiwan`url-test`(?i:TW|Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)`http://www.gstatic.com/generate_204`300
+;🇹🇼 Taiwan BGP`url-test`(台湾.* BGP)`http://www.gstatic.com/generate_204`300
+;🇹🇼 Taiwan IPLC`url-test`(台湾.* IPLC)`http://www.gstatic.com/generate_204`300
+;🇹🇼 Taiwan IEPL`url-test`(台湾.* IEPL)`http://www.gstatic.com/generate_204`300
+🇭🇰 Hong Kong`url-test`(?i:HK|Hong.*?Kong|HKT|HKBN|HGC|WTT|CMI|[^-]港)`http://www.gstatic.com/generate_204`300
+🇭🇰 Hong Kong BGP`url-test`(香港.* BGP)`http://www.gstatic.com/generate_204`300
+🇭🇰 Hong Kong IPLC`url-test`(香港.* IPLC)`http://www.gstatic.com/generate_204`300
+🇭🇰 Hong Kong IEPL`url-test`(香港.* IEPL)`http://www.gstatic.com/generate_204`300
+🇲🇴 Macau`url-test`(MO|Macau|Macao|澳门|CTM)`http://www.gstatic.com/generate_204`300
+🇰🇷 South Korea`url-test`(KR|Korea|KOR|首尔|韩|韓)`http://www.gstatic.com/generate_204`300
+🇰🇷 South Korea BGP`url-test`(韩国.* BGP)`http://www.gstatic.com/generate_204`300
+🇸🇬 Singapore`url-test`(SG|Singapore|新加坡|狮城|[^-]新)`http://www.gstatic.com/generate_204`300
+🇲🇾 Malaysia`url-test`(MY|Malaysia|马来西亚)`http://www.gstatic.com/generate_204`300
+🇯🇵 Japan`url-test`(JP|Japan|日本|东京|大阪|埼玉|[^-]日)`http://www.gstatic.com/generate_204`300
+🇦🇺 Australia`url-test`(AU|Australia|Sydney|澳大利亚|悉尼)`http://www.gstatic.com/generate_204`300
+🇺🇸 United States`url-test`(?i:US|America|United.*?States|美国|[^-]美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥)`http://www.gstatic.com/generate_204`300
+🇷🇺 Russia`url-test`(RU|Russia|伯力|莫斯科|圣彼得堡|西伯利亚|新西伯利亚|哈巴罗夫斯克|俄罗斯|[^-]俄)`http://www.gstatic.com/generate_204`300
+🏳️‍🌈 BGP`url-test`(BGP)`http://www.gstatic.com/generate_204`300
+NETFLIX`select`[]节点选择`[]自动选择`[]全球直连`.*
+Youtube Music`select`[]节点选择`[]自动选择`[]全球直连`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IPLC`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`.*
 广告拦截`select`[]全球拦截`[]全球直连`[]节点选择
 运营劫持`select`[]全球拦截`[]全球直连`[]节点选择
-国外媒体`select`[]节点选择`[]Auto`[]全球直连`.*
+国外媒体`select`[]节点选择`[]自动选择`[]全球直连`.*
 国内媒体`select`[]全球直连`(HGC|HKBN|PCCW|HKT|深台|彰化|新北|台|hk|港|tw)`[]节点选择
 微软服务`select`[]全球直连`[]节点选择`.*
 电报信息`select`[]节点选择`[]全球直连`.*
-苹果服务`select`[]节点选择`[]全球直连`[]Auto`.*
+苹果服务`select`[]节点选择`[]全球直连`[]自动选择`.*
 全球直连`select`[]DIRECT
 全球拦截`select`[]REJECT`[]DIRECT
-漏网之鱼`select`[]节点选择`[]全球直连`[]Auto`.*
-
-Auto`url-test`.*`http://clients3.google.com/generate_204`300
-
-🇦🇺 Australia`url-test`(AU|Australia|Sydney|澳大利亚|悉尼)`http://clients3.google.com/generate_204`300
-🇧🇷 Brazil`url-test`(BR|Brazil|巴西|圣保罗)`http://clients3.google.com/generate_204`300
-🇩🇪 Germany`url-test`(DE|Germany|法兰克福|德)`http://clients3.google.com/generate_204`300
-🇬🇧 United Kingdom`url-test`(?i:UK|England|United.*?Kingdom|英国|[^-]英|伦敦)`http://clients3.google.com/generate_204`300
-🇭🇰 Hong Kong`url-test`(?i:HK|Hong.*?Kong|HKT|HKBN|HGC|WTT|CMI|[^-]港)`http://clients3.google.com/generate_204`300
-🇭🇰 Hong Kong BGP`url-test`(香港.* BGP)`http://clients3.google.com/generate_204`300
-;🇭🇰 Hong Kong IPLC`url-test`(香港.* IPLC)`http://clients3.google.com/generate_204`300
-🇭🇰 Hong Kong IEPL`url-test`(香港.* IEPL)`http://clients3.google.com/generate_204`300
-🇮🇳 India`url-test`(India|印度|孟买)`http://clients3.google.com/generate_204`300
-🇯🇵 Japan`url-test`(JP|Japan|日本|东京|大阪|埼玉|[^-]日)`http://clients3.google.com/generate_204`300
-🇰🇷 South Korea`url-test`(KR|Korea|KOR|首尔|韩|韓)`http://clients3.google.com/generate_204`300
-🇲🇴 Macau`url-test`(MO|Macau|Macao|澳门|CTM)`http://clients3.google.com/generate_204`300
-🇲🇾 Malaysia`url-test`(MY|Malaysia|马来西亚)`http://clients3.google.com/generate_204`300
-🇷🇺 Russia`url-test`(RU|Russia|伯力|莫斯科|圣彼得堡|西伯利亚|新西伯利亚|哈巴罗夫斯克|俄罗斯|[^-]俄)`http://clients3.google.com/generate_204`300
-🇸🇬 Singapore`url-test`(SG|Singapore|新加坡|狮城|[^-]新)`http://clients3.google.com/generate_204`300
-🇹🇼 Taiwan`url-test`(?i:TW|Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)`http://clients3.google.com/generate_204`300
-;🇹🇼 Taiwan BGP`url-test`(台湾.* BGP)`http://clients3.google.com/generate_204`300
-;🇹🇼 Taiwan IPLC`url-test`(台湾.* IPLC)`http://clients3.google.com/generate_204`300
-;🇹🇼 Taiwan IEPL`url-test`(台湾.* IEPL)`http://clients3.google.com/generate_204`300
-🇺🇸 United States`url-test`(?i:US|America|United.*?States|美国|[^-]美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥)`http://clients3.google.com/generate_204`300
-
-;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
-;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
-;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
-;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
-
-🏳️‍🌈 BGP`url-test`(BGP)`http://clients3.google.com/generate_204`300
+漏网之鱼`select`[]节点选择`[]全球直连`[]自动选择`.*
