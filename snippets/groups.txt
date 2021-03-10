@@ -1,10 +1,9 @@
-节点选择`select`[]Auto`[]🇦🇷 Argentina`[]🇦🇺 Australia`[]🇧🇷 Brazil`[]🇨🇦 Canada`[]🇨🇭 Switzerland`[]🇨🇱 Chile`[]🇨🇳 China`[]🇨🇿 Czech Republic`[]🇩🇪 Germany`[]🇪🇸 Spain`[]🇫🇮 Finland`[]🇫🇷 France`[]🇬🇧 United Kingdom`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IPLC`[]🇭🇰 Hong Kong IEPL`[]🇭🇺 Hungary`[]🇮🇩 Indonesia`[]🇮🇪 Ireland`[]🇮🇱 Israel`[]🇮🇳 India`url-test`[]🇮🇸 Iceland`[]🇮🇹 Italy`[]🇯🇵 Japan`[]🇰🇭 Cambodia`[]🇰🇷 South Korea`[]🇲🇴 Macau`[]🇲🇴 Macau CTM`[]🇲🇽 Mexico`[]🇲🇾 Malaysia`[]🇳🇱 Netherlands`[]🇳🇿 New Zealand`[]🇵🇭 Philippines`[]🇵🇰 Pakistan`[]🇷🇺 Russia`[]🇸🇬 Singapore`[]🇹🇭 Thailand`[]🇹🇷 Turkey`[]🇹🇼 Taiwan`[]🇹🇼 Taiwan BGP`[]🇹🇼 Taiwan IPLC`[]🇹🇼 Taiwan IEPL`[]🇺🇦 Ukraine`[]🇺🇸 United States`[]🇻🇳 Vietnam`[]🇿🇦 South Africa`
+节点选择`select`[]Auto`[]🇦🇺 Australia`[]🇧🇷 Brazil`[]🇩🇪 Germany`url-test`[]🇬🇧 United Kingdom`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇮🇳 India`url-test`[]🇯🇵 Japan`[]🇰🇷 South Korea`[]🇲🇴 Macau`[]🇲🇾 Malaysia`[]🇷🇺 Russia`[]🇸🇬 Singapore`[]🇹🇼 Taiwan`[]🇺🇸 United States`
+Discord`select`[]节点选择`[]Auto`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🏳️‍🌈 BGP`
+osu!`select`[]全球直连`[]节点选择`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`
 
-Discord`select`[]节点选择`[]Auto`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇭🇰 Hong Kong IPLC`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🏳️‍🌈 BGP`
-osu!`select`[]全球直连`[]节点选择`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇭🇰 Hong Kong IPLC`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`
-Youtube Music`select`[]节点选择`[]Auto`[]全球直连`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IPLC`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`.*
 NETFLIX`select`[]节点选择`[]Auto`[]全球直连`.*
-
+Youtube Music`select`[]节点选择`[]Auto`[]全球直连`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`.*
 广告拦截`select`[]全球拦截`[]全球直连`[]节点选择
 运营劫持`select`[]全球拦截`[]全球直连`[]节点选择
 国外媒体`select`[]节点选择`[]Auto`[]全球直连`.*
@@ -18,56 +17,29 @@ NETFLIX`select`[]节点选择`[]Auto`[]全球直连`.*
 
 Auto`url-test`.*`http://clients3.google.com/generate_204`300
 
-🇦🇷 Argentina`url-test`(AR|阿根廷)`http://clients3.google.com/generate_204`300
-🇦🇺 Australia`url-test`(AU|Australia|Sydney|澳大利亚|悉尼|澳大利亞)`http://clients3.google.com/generate_204`300
+🇦🇺 Australia`url-test`(AU|Australia|Sydney|澳大利亚|悉尼)`http://clients3.google.com/generate_204`300
 🇧🇷 Brazil`url-test`(BR|Brazil|巴西|圣保罗)`http://clients3.google.com/generate_204`300
-🇨🇦 Canada`url-test`(Canada|加拿大|蒙特利尔|温哥华|楓葉|枫叶)`http://clients3.google.com/generate_204`300
-🇨🇭 Switzerland`url-test`(瑞士|苏黎世)`http://clients3.google.com/generate_204`300
-🇨🇱 Chile`url-test`(智利)`http://clients3.google.com/generate_204`300
-🇨🇳 China`url-test`(回国|back)`http://clients3.google.com/generate_204`300
-🇨🇿 Czech Republic`url-test`(捷克)`http://clients3.google.com/generate_204`300
 🇩🇪 Germany`url-test`(DE|Germany|法兰克福|德)`http://clients3.google.com/generate_204`300
-🇪🇸 Spain`url-test`(ES|Spain|西班牙)`http://clients3.google.com/generate_204`300
-🇫🇮 Finland`url-test`(Finland|芬兰|赫尔辛基)`http://clients3.google.com/generate_204`300
-🇫🇷 France`url-test`(FR|France|法国|巴黎|法國)`http://clients3.google.com/generate_204`300
 🇬🇧 United Kingdom`url-test`(?i:UK|England|United.*?Kingdom|英国|[^-]英|伦敦)`http://clients3.google.com/generate_204`300
 🇭🇰 Hong Kong`url-test`(?i:HK|Hong.*?Kong|HKT|HKBN|HGC|WTT|CMI|[^-]港)`http://clients3.google.com/generate_204`300
-🇭🇰 Hong Kong BGP`url-test`(香港.* BGP|中港.* BGP)`http://clients3.google.com/generate_204`300
-🇭🇰 Hong Kong IPLC`url-test`(香港.* IPLC|中港.* IPLC)`http://clients3.google.com/generate_204`300
-🇭🇰 Hong Kong IEPL`url-test`(香港.* IEPL|中港.* IEPL)`http://clients3.google.com/generate_204`300
-🇭🇺 Hungary`url-test`(AS|匈牙利)`http://clients3.google.com/generate_204`300
-🇮🇩 Indonesia`url-test`(Indonesia|印尼|印度尼西亚|雅加达)`http://clients3.google.com/generate_204`300
-🇮🇪 Ireland`url-test`(Ireland|爱尔兰|都柏林|愛爾蘭)`http://clients3.google.com/generate_204`300
-🇮🇱 Israel`url-test`(IL|以色列)`http://clients3.google.com/generate_204`300
+🇭🇰 Hong Kong BGP`url-test`(香港.* BGP)`http://clients3.google.com/generate_204`300
+;🇭🇰 Hong Kong IPLC`url-test`(香港.* IPLC)`http://clients3.google.com/generate_204`300
+🇭🇰 Hong Kong IEPL`url-test`(香港.* IEPL)`http://clients3.google.com/generate_204`300
 🇮🇳 India`url-test`(India|印度|孟买)`http://clients3.google.com/generate_204`300
-🇮🇸 Iceland`url-test`(冰島|冰岛)`http://clients3.google.com/generate_204`300
-🇮🇹 Italy`url-test`(Italy|意大利|米兰)`http://clients3.google.com/generate_204`300
 🇯🇵 Japan`url-test`(JP|Japan|日本|东京|大阪|埼玉|[^-]日)`http://clients3.google.com/generate_204`300
-🇰🇭 Cambodia`url-test`(柬埔寨)`http://clients3.google.com/generate_204`300
 🇰🇷 South Korea`url-test`(KR|Korea|KOR|首尔|韩|韓)`http://clients3.google.com/generate_204`300
-🇲🇴 Macau`url-test`(MO|Macau|Macao|澳门|CTM|澳門)`http://clients3.google.com/generate_204`300
-🇲🇴 Macau CTM`url-test`(CTM)`http://clients3.google.com/generate_204`300
-🇲🇽 Mexico`url-test`(墨西哥)`http://clients3.google.com/generate_204`300
-🇲🇾 Malaysia`url-test`(MY|Malaysia|马来西亚|馬來西亞)`http://clients3.google.com/generate_204`300
-🇳🇱 Netherlands`url-test`(NL|Netherlands|荷兰|阿姆斯特丹|荷蘭)`http://clients3.google.com/generate_204`300
-🇳🇿 New Zealand`url-test`(新西兰)`http://clients3.google.com/generate_204`300
-🇵🇭 Philippines`url-test`(PH|Philippines|菲律宾|菲律賓)`http://clients3.google.com/generate_204`300
-🇵🇰 Pakistan`url-test`(PK|巴基斯坦)`http://clients3.google.com/generate_204`300
+🇲🇴 Macau`url-test`(MO|Macau|Macao|澳门|CTM)`http://clients3.google.com/generate_204`300
+🇲🇾 Malaysia`url-test`(MY|Malaysia|马来西亚)`http://clients3.google.com/generate_204`300
 🇷🇺 Russia`url-test`(RU|Russia|伯力|莫斯科|圣彼得堡|西伯利亚|新西伯利亚|哈巴罗夫斯克|俄罗斯|[^-]俄)`http://clients3.google.com/generate_204`300
 🇸🇬 Singapore`url-test`(SG|Singapore|新加坡|狮城|[^-]新)`http://clients3.google.com/generate_204`300
-🇹🇭 Thailand`url-test`(TH|Thailand|泰国|泰國|曼谷)`http://clients3.google.com/generate_204`300
-🇹🇷 Turkey`url-test`(TR|Turkey|土耳其|伊斯坦布尔)`http://clients3.google.com/generate_204`300
-🇹🇼 Taiwan`url-test`(Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)`http://clients3.google.com/generate_204`300
-🇹🇼 Taiwan BGP`url-test`(台湾.* BGP)`http://clients3.google.com/generate_204`300
-🇹🇼 Taiwan IPLC`url-test`(台湾.* IPLC)`http://clients3.google.com/generate_204`300
-🇹🇼 Taiwan IEPL`url-test`(台湾.* IEPL)`http://clients3.google.com/generate_204`300
-🇺🇦 Ukraine`url-test`(烏克蘭|Ukraine|乌克兰)`http://clients3.google.com/generate_204`300
+🇹🇼 Taiwan`url-test`(?i:TW|Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)`http://clients3.google.com/generate_204`300
+;🇹🇼 Taiwan BGP`url-test`(台湾.* BGP)`http://clients3.google.com/generate_204`300
+;🇹🇼 Taiwan IPLC`url-test`(台湾.* IPLC)`http://clients3.google.com/generate_204`300
+;🇹🇼 Taiwan IEPL`url-test`(台湾.* IEPL)`http://clients3.google.com/generate_204`300
 🇺🇸 United States`url-test`(?i:US|America|United.*?States|美国|[^-]美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥)`http://clients3.google.com/generate_204`300
-🇻🇳 Vietnam`url-test`(VN|越南)`http://clients3.google.com/generate_204`300
-🇿🇦 South Africa`url-test`(ZA|南非)`http://clients3.google.com/generate_204`300
 
-(TH|Thailand|泰国|泰國|曼谷),🇹🇭
-;🇹🇭 Thailand`url-test`(TH|Thailand|泰国|泰國|曼谷)`http://clients3.google.com/generate_204`300
+;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
+;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
 ;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
 ;🇮🇳 India`url-test``http://clients3.google.com/generate_204`300
 
