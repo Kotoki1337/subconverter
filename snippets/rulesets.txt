@@ -1,6 +1,7 @@
 全球直连,rules/LocalAreaNetwork.list
 Discord,rules/Kotoki1337/Clash/Discord.list
 osu!,rules/Kotoki1337/Clash/osu!.list
+Uma Musume,rules/Kotoki1337/Clash/Uma.list
 微软服务,rules/MSServices.list
 全球直连,rules/Kotoki1337/Clash/Ogusers.list
 全球直连,rules/ConnersHua/Surge/Ruleset/Unbreak.list
