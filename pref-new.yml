@@ -47,6 +47,7 @@ node_pref:
   filter_deprecated_nodes: false
   append_sub_userinfo: true
   clash_use_new_field_name: true
+  clash_proxies_style: flow
   rename_node:
 #  - {match: "\\(?((x|X)?(\\d+)(\\.?\\d+)?)((\\s?倍率?)|(x|X))\\)?", replace: "$1x"}
 #  - {script: "function rename(node){}"}
@@ -125,6 +126,7 @@ aliases:
 server:
   listen: 0.0.0.0
   port: 25500
+  serve_file_root: ""
 
 advanced:
   log_level: info
@@ -133,7 +135,7 @@ advanced:
   max_concurrent_threads: 2
   max_allowed_rulesets: 0
   max_allowed_rules: 0
-  enable_base_gen: false
+  max_allowed_download_size: 0
   enable_cache: false
   cache_subscription: 60
   cache_config: 300
