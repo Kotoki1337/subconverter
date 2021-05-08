@@ -2,16 +2,17 @@
 
 Discord`select`[]节点选择`[]Auto`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇭🇰 Hong Kong IPLC`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇯🇵 Japan`[]🏳️‍🌈 BGP`
 osu!`select`[]全球直连`[]节点选择`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇭🇰 Hong Kong IPLC`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`
+Uma Musume`select`[]全球直连`[]节点选择`[]🇯🇵 Japan`(JP|Japan|日本|东京|大阪|埼玉|[^-]日)
 Youtube Music`select`[]节点选择`[]Auto`[]全球直连`[]🇹🇼 Taiwan`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IPLC`[]🇭🇰 Hong Kong IEPL`[]🇲🇴 Macau`[]🇰🇷 South Korea`[]🇸🇬 Singapore`[]🇲🇾 Malaysia`[]🇯🇵 Japan`[]🇦🇺 Australia`([]🇺🇸 United States`[]🇷🇺 Russia`.*
 NETFLIX`select`[]节点选择`[]Auto`[]全球直连`.*
 
 广告拦截`select`[]全球拦截`[]全球直连`[]节点选择
 运营劫持`select`[]全球拦截`[]全球直连`[]节点选择
-国外媒体`select`[]节点选择`[]自动选择`[]全球直连`.*
+国外媒体`select`[]节点选择`[]Auto`[]全球直连`.*
 国内媒体`select`[]全球直连`(HGC|HKBN|PCCW|HKT|深台|彰化|新北|台|hk|港|tw)`[]节点选择
 微软服务`select`[]全球直连`[]节点选择`.*
 电报信息`select`[]节点选择`[]全球直连`.*
-苹果服务`select`[]节点选择`[]全球直连`[]自动选择`.*
+苹果服务`select`[]节点选择`[]全球直连`[]Auto`.*
 全球直连`select`[]DIRECT
 全球拦截`select`[]REJECT`[]DIRECT
 漏网之鱼`select`[]节点选择`[]全球直连`[]Auto`.*
