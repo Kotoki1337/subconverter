@@ -1,7 +1,7 @@
 Discord,rules/Kotoki1337/Clash/Discord.list
 osu!,rules/Kotoki1337/Clash/osu!.list
 Uma Musume,rules/Kotoki1337/Clash/Uma.list
-Temporary,rules/Kotoki1337/Clash/Temp.list
+Temporary,rules/Kotoki1337/Clash/Temporary.list
 
 🎯 全球直连,rules/LocalAreaNetwork.list
 Ⓜ️ 微软服务,rules/MSServices.list
