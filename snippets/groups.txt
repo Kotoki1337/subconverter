@@ -21,13 +21,13 @@ Temporary`select`[]🔰 节点选择
 🇭🇰 Hong Kong BGP`url-test`(香港.* BGP|中港.* BGP)`http://clients3.google.com/generate_204`300
 ;🇭🇰 Hong Kong IPLC`url-test`(香港.* IPLC|中港.* IPLC)`http://clients3.google.com/generate_204`300
 🇭🇰 Hong Kong IEPL`url-test`(香港.* IEPL|中港.* IEPL)`http://clients3.google.com/generate_204`300
-🇭🇰 Hong Kong AIA`url-test`(香港.* AIA|中港.* AIA)`http://clients3.google.com/generate_204`300
+;🇭🇰 Hong Kong AIA`url-test`(香港.* AIA|中港.* AIA)`http://clients3.google.com/generate_204`300
 
 🇹🇼 Taiwan`url-test`(Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)`http://clients3.google.com/generate_204`300
 🇹🇼 Taiwan BGP`url-test`(台湾.* BGP)`http://clients3.google.com/generate_204`300
 ;🇹🇼 Taiwan IPLC`url-test`(台湾.* IPLC)`http://clients3.google.com/generate_204`300
 ;🇹🇼 Taiwan IEPL`url-test`(台湾.* IEPL)`http://clients3.google.com/generate_204`300
-🇹🇼 Taiwan AIA`url-test`(台湾.* AIA)`http://clients3.google.com/generate_204`300
+;🇹🇼 Taiwan AIA`url-test`(台湾.* AIA)`http://clients3.google.com/generate_204`300
 
 🇯🇵 Japan`url-test`(JP|Japan|日本|东京|大阪|埼玉|[^-]日)`http://clients3.google.com/generate_204`300
 
