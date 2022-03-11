@@ -78,3 +78,18 @@ ruleset = "[]GEOIP,CN"
 group = "🐟 漏网之鱼"
 ruleset = "[]FINAL"
 
+[[rulesets]]
+group = "Discord"
+ruleset = "rules/Kotoki1337/Clash/Discord.list"
+
+[[rulesets]]
+group = "osu!"
+ruleset = "rules/Kotoki1337/Clash/osu!.list"
+
+[[rulesets]]
+group = "Uma Musume"
+ruleset = "rules/Kotoki1337/Clash/Uma.list"
+
+[[rulesets]]
+group = "Temporary"
+ruleset = "rules/Kotoki1337/Clash/Temporary.list"

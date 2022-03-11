@@ -1,12 +1,93 @@
 [[custom_groups]]
 name = "🔰 节点选择"
 type = "select"
-rule = ["[]♻️ 自动选择", "[]🎯 全球直连", ".*"]
+rule = ["[]♻️ 自动选择", "[]🎯 全球直连",  "[]🇲🇴 Macau", "[]🇹🇼 Taiwan", "[]🇹🇼 Taiwan BGP", "[]🇭🇰 Hong Kong", "[]🇭🇰 Hong Kong BGP", "[]🇭🇰 Hong Kong IEPL", "[]🇯🇵 Japan", "[]🇰🇷 South Korea", "[]🇸🇬 Singapore"]
 
 [[custom_groups]]
-name = "♻️ 自动选择"
-type = "url-test"
+name = "强制选择"
+type = "select"
 rule = [".*"]
+
+[[custom_groups]]
+name = "osu!"
+type = "select"
+rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇲🇴 Macau"]
+
+[[custom_groups]]
+name = "Discord"
+type = "select"
+rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇭🇰 Hong Kong", "[]🇭🇰 Hong Kong BGP", "[]🇭🇰 Hong Kong IEPL", "[]🇯🇵 Japan", "[]🇸🇬 Singapore"]
+
+[[custom_groups]]
+name = "Uma Musume"
+type = "select"
+rule = ["[]🇯🇵 Japan"]
+
+[[custom_groups]]
+name = "Temporary"
+type = "select"
+rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连"]
+
+[[custom_groups]]
+name = "🇲🇴 Macau"
+type = "url-test"
+rule = ["(MO|Macau|Macao|澳门|CTM|澳門)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇭🇰 Hong Kong"
+type = "url-test"
+rule = ["(?i:HK|Hong.*?Kong|HKT|HKBN|HGC|WTT|CMI|[^-]港)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇭🇰 Hong Kong BGP"
+type = "url-test"
+rule = ["(香港.* BGP|中港.* BGP)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇭🇰 Hong Kong IEPL"
+type = "url-test"
+rule = ["(香港.* IEPL|中港.* IEPL)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇹🇼 Taiwan"
+type = "url-test"
+rule = ["(Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇹🇼 Taiwan BGP"
+type = "url-test"
+rule = ["(台湾.* BGP)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇯🇵 Japan"
+type = "url-test"
+rule = ["(JP|Japan|日本|东京|大阪|埼玉|[^-]日)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇰🇷 South Korea"
+type = "url-test"
+rule = ["(?i:KR|Korea|KOR|首尔|韩|韓)"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
+
+[[custom_groups]]
+name = "🇸🇬 Singapore"
+type = "url-test"
+rule = ["(?i:SG|Singapore|新加坡|狮城|[^-]新)"]
 url = "http://www.gstatic.com/generate_204"
 interval = 300
 
@@ -89,3 +170,10 @@ rule = ["[]🔰 节点选择",
 "[]🎯 全球直连",
 "[]♻️ 自动选择",
 ".*"]
+
+[[custom_groups]]
+name = "♻️ 自动选择"
+type = "url-test"
+rule = [".*"]
+url = "http://www.gstatic.com/generate_204"
+interval = 300
