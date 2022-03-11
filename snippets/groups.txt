@@ -1,6 +1,8 @@
-🔰 节点选择`select`[]♻️ 自动选择`[]🎯 全球直连`[]🇲🇴 Macau`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇹🇼 Taiwan`[]🇹🇼 Taiwan BGP`[]🇯🇵 Japan
+🔰 节点选择`select`[]♻️ 自动选择`[]强制选择`[]🎯 全球直连`[]🇲🇴 Macau`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇹🇼 Taiwan`[]🇹🇼 Taiwan BGP`[]🇯🇵 Japan
 
-osu!`select`[]🔰 节点选择`[]🎯 全球直连`[]🇲🇴 Macau
+强制选择`select`.*
+
+osu!`select`[]🔰 节点选择`[]强制选择`[]🎯 全球直连`[]🇲🇴 Macau
 Discord`select`[]🔰 节点选择`[]🇭🇰 Hong Kong`[]🇭🇰 Hong Kong BGP`[]🇭🇰 Hong Kong IEPL`[]🇯🇵 Japan
 Uma Musume`select`(?i:JP|Japan|Tokyo|Osaka|Saitama|日本|东京|大阪|埼玉|[^-]日)
 Temporary`select`[]🔰 节点选择
