@@ -19,7 +19,7 @@ type = "select"
 rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇭🇰 Hong Kong", "[]🇭🇰 Hong Kong BGP", "[]🇭🇰 Hong Kong IEPL", "[]🇯🇵 Japan", "[]🇸🇬 Singapore"]
 
 [[custom_groups]]
-name = "Uma Musume"
+name = "DMM Games"
 type = "select"
 rule = ["[]🇯🇵 Japan"]
 

@@ -7,8 +7,8 @@ group = "osu!"
 ruleset = "rules/Kotoki1337/Clash/osu!.list"
 
 [[rulesets]]
-group = "Uma Musume"
-ruleset = "rules/Kotoki1337/Clash/Uma.list"
+group = "DMM Games"
+ruleset = "rules/Kotoki1337/Clash/DMM.list"
 
 [[rulesets]]
 group = "Temporary"
