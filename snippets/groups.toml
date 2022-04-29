@@ -127,9 +127,7 @@ rule = ["[]🔰 节点选择",
 [[custom_groups]]
 name = "🌏 国内媒体"
 type = "select"
-rule = ["[]🎯 全球直连",
-"(HGC|HKBN|PCCW|HKT|深台|彰化|新北|台|hk|港|tw)",
-"[]🔰 节点选择"]
+rule = ["[]🎯 全球直连", "[]🇲🇴 Macau", "[]🇹🇼 Taiwan", "[]🇹🇼 Taiwan BGP", "[]🇭🇰 Hong Kong", "[]🇭🇰 Hong Kong BGP", "[]🇭🇰 Hong Kong IEPL"]
 
 [[custom_groups]]
 name = "Ⓜ️ 微软服务"
