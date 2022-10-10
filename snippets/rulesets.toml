@@ -15,6 +15,10 @@ group = "Temporary"
 ruleset = "rules/Kotoki1337/Clash/Temporary.list"
 
 [[rulesets]]
+group = "Bilibili"
+ruleset = "rules/Kotoki1337/Clash/Bilibili.list"
+
+[[rulesets]]
 group = "🎯 全球直连"
 ruleset = "rules/LocalAreaNetwork.list"
 

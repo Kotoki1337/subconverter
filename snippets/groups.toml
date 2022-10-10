@@ -1,7 +1,7 @@
 [[custom_groups]]
 name = "🔰 节点选择"
 type = "select"
-rule = ["[]♻️ 自动选择", "[]🎯 全球直连", "[]强制选择", "[]🇲🇴 Macau", "[]🇹🇼 Taiwan", "[]🇹🇼 Taiwan BGP", "[]🇭🇰 Hong Kong", "[]🇭🇰 Hong Kong BGP", "[]🇭🇰 Hong Kong IEPL", "[]🇯🇵 Japan", "[]🇰🇷 South Korea", "[]🇸🇬 Singapore"]
+rule = ["[]♻️ 自动选择", "[]🎯 全球直连", "[]强制选择", "[]🇲🇴 Macau", "[]Haruka", "[]🇹🇼 Taiwan", "[]🇭🇰 Hong Kong", "[]🇯🇵 Japan", "[]🇰🇷 South Korea", "[]🇸🇬 Singapore"]
 
 [[custom_groups]]
 name = "强制选择"
@@ -9,14 +9,19 @@ type = "select"
 rule = [".*"]
 
 [[custom_groups]]
+name = "Haruka"
+type = "select"
+rule = ["(Haruka)"]
+
+[[custom_groups]]
 name = "osu!"
 type = "select"
-rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇲🇴 Macau"]
+rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇲🇴 Macau", "[]Haruka"]
 
 [[custom_groups]]
 name = "Discord"
 type = "select"
-rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇭🇰 Hong Kong", "[]🇭🇰 Hong Kong BGP", "[]🇭🇰 Hong Kong IEPL", "[]🇯🇵 Japan", "[]🇸🇬 Singapore"]
+rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇭🇰 Hong Kong", "[]🇯🇵 Japan", "[]🇸🇬 Singapore"]
 
 [[custom_groups]]
 name = "DMM Games"
@@ -27,6 +32,11 @@ rule = ["[]🇯🇵 Japan"]
 name = "Temporary"
 type = "select"
 rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连"]
+
+[[custom_groups]]
+name = "Bilibili"
+type = "select"
+rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇲🇴 Macau", "[]Haruka"]
 
 [[custom_groups]]
 name = "🇲🇴 Macau"
@@ -43,30 +53,9 @@ url = "http://www.gstatic.com/generate_204"
 interval = 300
 
 [[custom_groups]]
-name = "🇭🇰 Hong Kong BGP"
-type = "url-test"
-rule = ["(香港.* BGP|中港.* BGP)"]
-url = "http://www.gstatic.com/generate_204"
-interval = 300
-
-[[custom_groups]]
-name = "🇭🇰 Hong Kong IEPL"
-type = "url-test"
-rule = ["(香港.* IEPL|中港.* IEPL)"]
-url = "http://www.gstatic.com/generate_204"
-interval = 300
-
-[[custom_groups]]
 name = "🇹🇼 Taiwan"
 type = "url-test"
 rule = ["(Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)"]
-url = "http://www.gstatic.com/generate_204"
-interval = 300
-
-[[custom_groups]]
-name = "🇹🇼 Taiwan BGP"
-type = "url-test"
-rule = ["(台湾.* BGP)"]
 url = "http://www.gstatic.com/generate_204"
 interval = 300
 
@@ -127,7 +116,7 @@ rule = ["[]🔰 节点选择",
 [[custom_groups]]
 name = "🌏 国内媒体"
 type = "select"
-rule = ["[]🎯 全球直连", "[]🇲🇴 Macau", "[]🇹🇼 Taiwan", "[]🇹🇼 Taiwan BGP", "[]🇭🇰 Hong Kong", "[]🇭🇰 Hong Kong BGP", "[]🇭🇰 Hong Kong IEPL"]
+rule = ["[]🎯 全球直连", "[]🇲🇴 Macau", "[]🇹🇼 Taiwan", "[]🇭🇰 Hong Kong", "[]Haruka"]
 
 [[custom_groups]]
 name = "Ⓜ️ 微软服务"
