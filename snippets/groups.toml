@@ -26,7 +26,7 @@ rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇭�
 [[custom_groups]]
 name = "DMM Games"
 type = "select"
-rule = ["[]🇯🇵 Japan"]
+rule = ["[]🇯🇵 Japan", "(JP|Japan|日本|东京|大阪|埼玉|[^-]日)"]
 
 [[custom_groups]]
 name = "Temporary"
