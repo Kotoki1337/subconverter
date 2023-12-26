@@ -41,7 +41,7 @@ rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连", "[]🇲�
 [[custom_groups]]
 name = "🇲🇴 Macau"
 type = "url-test"
-rule = ["(MO|Macau|Macao|澳门|CTM|澳門)"]
+rule = ["(MO|MAC|Macau|Macao|澳门|CTM|MTel|澳門)"]
 url = "http://www.gstatic.com/generate_204"
 interval = 300
 
@@ -55,7 +55,7 @@ interval = 300
 [[custom_groups]]
 name = "🇹🇼 Taiwan"
 type = "url-test"
-rule = ["(Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET)"]
+rule = ["(Taiwan|TW|TWN|新北|彰化|CHT|台湾|[^-]台|HINET)"]
 url = "http://www.gstatic.com/generate_204"
 interval = 300
 
