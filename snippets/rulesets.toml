@@ -11,6 +11,10 @@ group = "DMM Games"
 ruleset = "rules/Kotoki1337/Clash/DMM.list"
 
 [[rulesets]]
+group = "Tarkov"
+ruleset = "rules/Kotoki1337/Clash/Tarkov.list"
+
+[[rulesets]]
 group = "Temporary"
 ruleset = "rules/Kotoki1337/Clash/Temporary.list"
 
