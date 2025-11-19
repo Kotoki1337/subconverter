@@ -29,6 +29,11 @@ type = "select"
 rule = ["[]🇯🇵 Japan", "(JP|Japan|日本|东京|大阪|埼玉|[^-]日)"]
 
 [[custom_groups]]
+name = "Tarkov"
+type = "select"
+rule = ["(RU|Russia|俄罗斯|莫斯科|圣彼得堡)"]
+
+[[custom_groups]]
 name = "Temporary"
 type = "select"
 rule = ["[]🔰 节点选择", "[]强制选择", "[]🎯 全球直连"]
